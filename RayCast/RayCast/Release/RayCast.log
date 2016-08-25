@@ -1,0 +1,11 @@
+﻿Build started 5/23/2016 3:57:17 PM.
+     1>Project "c:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\RayCast\RayCast.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ayrton\documents\visual studio 2013\Projects\RayCast\Release\RayCast.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Ayrton\Documents\sfml\lib "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ayrton\documents\visual studio 2013\Projects\RayCast\Release\RayCast.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ayrton\documents\visual studio 2013\Projects\RayCast\Release\RayCast.lib" /MACHINE:X86 /SAFESEH Release\RayCast.obj
+         Release\stdafx.obj
+     1>sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "c:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\RayCast\RayCast.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.16

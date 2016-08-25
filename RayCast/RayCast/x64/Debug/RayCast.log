@@ -1,0 +1,26 @@
+﻿Build started 6/11/2016 6:42:55 PM.
+     1>Project "C:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\RayCast\RayCast.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Ayrton\Documents\sfml\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt RayCaster.cpp
+         RayCaster.cpp
+     1>RayCaster.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(363): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(364): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(456): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(457): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(458): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(459): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(531): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>RayCaster.cpp(541): warning C4244: 'initializing' : conversion from 'sf::Int64' to 'float', possible loss of data
+     1>RayCaster.cpp(281): warning C4101: 'nPerpWalldist' : unreferenced local variable
+     1>RayCaster.cpp(280): warning C4101: 'nWallHeight' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\x64\Debug\RayCast.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Ayrton\Documents\sfml\lib "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\x64\Debug\RayCast.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\x64\Debug\RayCast.lib" /MACHINE:X64 x64\Debug\RayCaster.obj
+         x64\Debug\stdafx.obj
+         RayCast.vcxproj -> C:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\x64\Debug\RayCast.exe
+     1>Done Building Project "C:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\RayCast\RayCast.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26

@@ -1,0 +1,11 @@
+﻿Build started 5/23/2016 3:57:26 PM.
+     1>Project "c:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\RayCast\RayCast.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ayrton\documents\visual studio 2013\Projects\RayCast\Debug\RayCast.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Ayrton\Documents\sfml\lib "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ayrton\documents\visual studio 2013\Projects\RayCast\Debug\RayCast.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ayrton\documents\visual studio 2013\Projects\RayCast\Debug\RayCast.lib" /MACHINE:X64 Debug\RayCast.obj
+         Debug\stdafx.obj
+     1>Debug\RayCast.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "c:\Users\Ayrton\documents\visual studio 2013\Projects\RayCast\RayCast\RayCast.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.12
